@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEE8B0,100:F97B22&height=300&section=header&text=Hello%20World!%20I'm%20Jiseop%20Kim&fontSize=60)
-
 <div align='center'>
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEE8B0,100:F97B22&height=300&section=header&text=Hello%20World!%20I'm%20Jiseop%20Kim&fontSize=60)  
 ### 📞Contact
 
 
