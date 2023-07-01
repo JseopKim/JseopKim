@@ -2,11 +2,11 @@
 
 <div align='center'>
   
-## Contact
+## 📞Contact
 <a href="mailto:jsub5646@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsub5646@gmail.com"/></a>
 
 
-## Tech Stack
+## 💪Tech Stack
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io-010101&logoColor=black">
 </div>
 
+## 🌱Use Language In Github
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JseopKim&&layout=compact&theme=tokyonight" />
 </a>
