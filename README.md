@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=JseopKim&theme=tokyonight&show_icons=true" width="42%" />
 </a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JseopKim&theme=nord_dark)
