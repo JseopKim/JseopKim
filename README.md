@@ -9,6 +9,7 @@
 <a href="mailto:jsub5646@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsub5646@gmail.com"/></a>
 <br>
 <br>
+<br>
 
 ### 💪Tech Stack
 
@@ -24,11 +25,18 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io-010101&logoColor=white">
 </div>
+<br>
+<br>
+<br>
+
 
 ### 🌱Use Language In Github
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JseopKim&&layout=compact&theme=tokyonight" />
 </a>
+<br>
+<br>
+<br>
 
 ### 🌱Github Stat
 <a href="s">
