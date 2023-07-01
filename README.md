@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 기술스택
 
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JseopKim&&layout=compact&theme=tokyonight" />
