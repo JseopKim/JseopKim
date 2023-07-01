@@ -7,7 +7,8 @@
 
 
 <a href="mailto:jsub5646@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsub5646@gmail.com"/></a>
-
+<br>
+<br>
 
 ### 💪Tech Stack
 
