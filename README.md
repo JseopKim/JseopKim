@@ -1,27 +1,9 @@
-
-
-<!--
-**JseopKim/JseopKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEE8B0,100:F97B22&height=300&section=header&text=Hello%20World!%20I'm%20Jiseop%20Kim&fontSize=60)
 
 <div align='center'>
   
 ## Contact
 <a href="mailto:jsub5646@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsub5646@gmail.com"/></a>
-
-</div>
 
 
 ## Tech Stack
@@ -46,3 +28,5 @@ Here are some ideas to get you started:
 </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JseopKim&theme=nord_dark)
+
+</div>
